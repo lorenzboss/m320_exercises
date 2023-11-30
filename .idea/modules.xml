@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a0/a0.iml" filepath="$PROJECT_DIR$/a0/a0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a1_Account/a1_Account.iml" filepath="$PROJECT_DIR$/a1_Account/a1_Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b1_Account/b1_Account.iml" filepath="$PROJECT_DIR$/b1_Account/b1_Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2_SailingShips/b2_SailingShips.iml" filepath="$PROJECT_DIR$/b2_SailingShips/b2_SailingShips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b3_SailingShips2/b3_SailingShips2.iml" filepath="$PROJECT_DIR$/b3_SailingShips2/b3_SailingShips2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b4_SailingShips3/b4_SailingShips3.iml" filepath="$PROJECT_DIR$/b4_SailingShips3/b4_SailingShips3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c1_SailingShips4/c1_SailingShips4.iml" filepath="$PROJECT_DIR$/c1_SailingShips4/c1_SailingShips4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c2_game/c2_game.iml" filepath="$PROJECT_DIR$/c2_game/c2_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_game2/c3_game2.iml" filepath="$PROJECT_DIR$/c3_game2/c3_game2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_game_m/c4_game_m.iml" filepath="$PROJECT_DIR$/c4_game_m/c4_game_m.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d1_Javadoc/d1_Javadoc.iml" filepath="$PROJECT_DIR$/d1_Javadoc/d1_Javadoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e1_Car/e1_Car.iml" filepath="$PROJECT_DIR$/e1_Car/e1_Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e2_Car2/e2_Car2.iml" filepath="$PROJECT_DIR$/e2_Car2/e2_Car2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_Car3/e3_Car3.iml" filepath="$PROJECT_DIR$/e3_Car3/e3_Car3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f1_Car4/f1_Car4.iml" filepath="$PROJECT_DIR$/f1_Car4/f1_Car4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f2_Car5/f2_Car5.iml" filepath="$PROJECT_DIR$/f2_Car5/f2_Car5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f3_game3/f3_game3.iml" filepath="$PROJECT_DIR$/f3_game3/f3_game3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g1_Calculator/g1_Calculator.iml" filepath="$PROJECT_DIR$/g1_Calculator/g1_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g2_Account/g2_Account.iml" filepath="$PROJECT_DIR$/g2_Account/g2_Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modul320.iml" filepath="$PROJECT_DIR$/modul320.iml" />
+      <module fileurl="file://$PROJECT_DIR$/t1_Recyhof/t1_Recyhof.iml" filepath="$PROJECT_DIR$/t1_Recyhof/t1_Recyhof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/t2_Abstraktion/t2_Abstraktion.iml" filepath="$PROJECT_DIR$/t2_Abstraktion/t2_Abstraktion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/t3_Testing/t3_Testing.iml" filepath="$PROJECT_DIR$/t3_Testing/t3_Testing.iml" />
+    </modules>
+  </component>
+</project>
